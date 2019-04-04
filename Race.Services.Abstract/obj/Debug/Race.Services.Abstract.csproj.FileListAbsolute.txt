@@ -1,0 +1,5 @@
+E:\C#\hw12\Race.Services.Abstract\bin\Debug\Race.Services.Abstract.dll
+E:\C#\hw12\Race.Services.Abstract\bin\Debug\Race.Services.Abstract.pdb
+E:\C#\hw12\Race.Services.Abstract\obj\Debug\Race.Services.Abstract.csproj.CoreCompileInputs.cache
+E:\C#\hw12\Race.Services.Abstract\obj\Debug\Race.Services.Abstract.dll
+E:\C#\hw12\Race.Services.Abstract\obj\Debug\Race.Services.Abstract.pdb

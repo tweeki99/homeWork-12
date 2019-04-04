@@ -1,0 +1,39 @@
+E:\C#\hw12\Race.Models\bin\Debug\Race.Models.dll
+E:\C#\hw12\Race.Models\bin\Debug\Race.Models.pdb
+E:\C#\hw12\Race.Models\bin\Debug\Race.Models.Abstract.dll
+E:\C#\hw12\Race.Models\bin\Debug\Race.Models.Abstract.pdb
+E:\C#\hw12\Race.Models\obj\Debug\Race.Models.csprojAssemblyReference.cache
+E:\C#\hw12\Race.Models\obj\Debug\Race.Models.csproj.CoreCompileInputs.cache
+E:\C#\hw12\Race.Models\obj\Debug\Race.Models.csproj.CopyComplete
+E:\C#\hw12\Race.Models\obj\Debug\Race.Models.dll
+E:\C#\hw12\Race.Models\obj\Debug\Race.Models.pdb
+E:\C#\hw12\Race.Models\bin\Debug\Race.Services.dll
+E:\C#\hw12\Race.Models\bin\Debug\Race.Services.Abstract.dll
+E:\C#\hw12\Race.Models\bin\Debug\Race.Services.pdb
+E:\C#\hw12\Race.Models\bin\Debug\Race.Services.Abstract.pdb
+E:\Всякое\hw12 без потоков\Race.Models\obj\Debug\Race.Models.csprojAssemblyReference.cache
+E:\Всякое\hw12 без потоков\Race.Models\obj\Debug\Race.Models.csproj.CoreCompileInputs.cache
+E:\Всякое\hw12 без потоков\Race.Models\obj\Debug\Race.Models.dll
+E:\Всякое\hw12 без потоков\Race.Models\obj\Debug\Race.Models.pdb
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Models.dll
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Models.pdb
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Models.Abstract.dll
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Services.dll
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Services.Abstract.dll
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Models.Abstract.pdb
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Services.pdb
+E:\Всякое\hw12 без потоков\Race.Models\bin\Debug\Race.Services.Abstract.pdb
+E:\Всякое\hw12 без потоков\Race.Models\obj\Debug\Race.Models.csproj.CopyComplete
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Models.dll
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Models.pdb
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Models.Abstract.dll
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Services.dll
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Services.Abstract.dll
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Models.Abstract.pdb
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Services.pdb
+E:\Всякое\hw12 потоки готово\Race.Models\bin\Debug\Race.Services.Abstract.pdb
+E:\Всякое\hw12 потоки готово\Race.Models\obj\Debug\Race.Models.csprojAssemblyReference.cache
+E:\Всякое\hw12 потоки готово\Race.Models\obj\Debug\Race.Models.csproj.CoreCompileInputs.cache
+E:\Всякое\hw12 потоки готово\Race.Models\obj\Debug\Race.Models.csproj.CopyComplete
+E:\Всякое\hw12 потоки готово\Race.Models\obj\Debug\Race.Models.dll
+E:\Всякое\hw12 потоки готово\Race.Models\obj\Debug\Race.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\bin\Debug\hw12.exe.config
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\bin\Debug\hw12.exe
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\bin\Debug\hw12.pdb
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\obj\Debug\hw12.csprojAssemblyReference.cache
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\obj\Debug\hw12.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\obj\Debug\hw12.exe
+C:\Users\шипиловд.CORP\source\repos\hw12\hw12\obj\Debug\hw12.pdb
+E:\C#\hw12\hw12\bin\Debug\hw12.exe.config
+E:\C#\hw12\hw12\bin\Debug\hw12.exe
+E:\C#\hw12\hw12\bin\Debug\hw12.pdb
+E:\C#\hw12\hw12\obj\Debug\hw12.csprojAssemblyReference.cache
+E:\C#\hw12\hw12\obj\Debug\hw12.csproj.CoreCompileInputs.cache
+E:\C#\hw12\hw12\obj\Debug\hw12.exe
+E:\C#\hw12\hw12\obj\Debug\hw12.pdb

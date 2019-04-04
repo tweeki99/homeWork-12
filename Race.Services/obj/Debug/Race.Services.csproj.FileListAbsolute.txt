@@ -1,0 +1,9 @@
+E:\C#\hw12\Race.Services\bin\Debug\Race.Services.dll
+E:\C#\hw12\Race.Services\bin\Debug\Race.Services.pdb
+E:\C#\hw12\Race.Services\bin\Debug\Race.Services.Abstract.dll
+E:\C#\hw12\Race.Services\bin\Debug\Race.Services.Abstract.pdb
+E:\C#\hw12\Race.Services\obj\Debug\Race.Services.csprojAssemblyReference.cache
+E:\C#\hw12\Race.Services\obj\Debug\Race.Services.csproj.CoreCompileInputs.cache
+E:\C#\hw12\Race.Services\obj\Debug\Race.Services.csproj.CopyComplete
+E:\C#\hw12\Race.Services\obj\Debug\Race.Services.dll
+E:\C#\hw12\Race.Services\obj\Debug\Race.Services.pdb
